@@ -1,0 +1,14 @@
+Alarm clock
+
+1.hr can add as many as alarms in javascrpit => show all alarmms from top to down
+=>max alarms can be 24.
+
+2. can delete these alarms as well
+3.from drop down select the tim and and am and pm as well.
+.once time is there start ringing and delete the alarm.
+4. that time come with snooze and stop button as well.
+5.snooze option will give 5 or 10 mins two options.
+
+
+
+
